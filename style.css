@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+.header, .footer {
+    color: white;
+    background-color: rgb(201, 81, 123);
+    text-align: center;
+    padding: 20px;
+}
+
+.content {
+    text-align: center;
+    margin: 0px 30px;
+}
+
+.content p {
+    text-align: justify;
+}
+
+img {
+    width: 75%;
+}
+
+a {
+    color: white;
+    margin-right: 10px;
+    text-decoration: none;
+}
+.menu {
+    float: right;
+}
+
